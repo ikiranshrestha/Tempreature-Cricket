@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cricket Chrips</string>
+    <string name="info">Did you know that you can tell the temperature by counting the chirps of a cricket?</string>
+    <string name="result">TextView</string>
+    <string name="chrips">Number of Chrips in 25 seconds</string>
+    <string name="check">Check</string>
+    <string name="thermometer">Thermometer</string>
+</resources>
